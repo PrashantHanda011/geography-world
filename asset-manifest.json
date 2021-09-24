@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/geography-world/static/css/main.93af3df7.chunk.css",
+    "main.js": "/geography-world/static/js/main.7d48fbb4.chunk.js",
+    "main.js.map": "/geography-world/static/js/main.7d48fbb4.chunk.js.map",
+    "runtime-main.js": "/geography-world/static/js/runtime-main.9160fdd7.js",
+    "runtime-main.js.map": "/geography-world/static/js/runtime-main.9160fdd7.js.map",
+    "static/css/2.6293a573.chunk.css": "/geography-world/static/css/2.6293a573.chunk.css",
+    "static/js/2.b24559ee.chunk.js": "/geography-world/static/js/2.b24559ee.chunk.js",
+    "static/js/2.b24559ee.chunk.js.map": "/geography-world/static/js/2.b24559ee.chunk.js.map",
+    "index.html": "/geography-world/index.html",
+    "static/css/2.6293a573.chunk.css.map": "/geography-world/static/css/2.6293a573.chunk.css.map",
+    "static/css/main.93af3df7.chunk.css.map": "/geography-world/static/css/main.93af3df7.chunk.css.map",
+    "static/js/2.b24559ee.chunk.js.LICENSE.txt": "/geography-world/static/js/2.b24559ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9160fdd7.js",
+    "static/css/2.6293a573.chunk.css",
+    "static/js/2.b24559ee.chunk.js",
+    "static/css/main.93af3df7.chunk.css",
+    "static/js/main.7d48fbb4.chunk.js"
+  ]
+}
