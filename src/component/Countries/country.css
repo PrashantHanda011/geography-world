@@ -1,0 +1,33 @@
+.country{
+    width: 20vw;
+    height: 50vh;
+    background-color: rgb(22, 19, 19);
+    font-family: 'Roboto', sans-serif;
+    margin: 30px;
+}
+.country img{
+    height: 50%;
+    width: 100%;
+}
+.country-data{
+    height: 50%;
+    padding: 10px;
+}
+.country-data h1{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: white;
+}
+.country-data h1 a{
+    text-decoration: none;
+}
+.country-data ul{
+    font-size: 0.9rem;
+    list-style: none;
+    padding: 5px 0;
+    margin-top: 10px;
+}
+.country-data ul li{
+    font-weight: 600;
+    color: grey;
+}
